@@ -1,4 +1,4 @@
-# HybridCPU-v2 + SingNextOS — Community Help Wanted
+# HybridCPU-v2 + SingNextOS — Community Help Wanted🤔
 
 I am looking for developers, researchers, hardware engineers, and systems people who would like to help move **HybridCPU-v2** and **SingNextOS** from a fairly detailed research architecture toward stronger compiler, emulator, hardware, tooling, and integration implementations.
 
@@ -278,7 +278,7 @@ I think the software and hardware direction is now sufficiently defined that a w
 If any part of this intersects with your interests, **please join the discussion, open an issue, or send a pull request. Even a narrow contribution is useful.**
 
 Thank you.
-
+yuriyyak@gmail.com
 <!--
 **yuriyyak23/yuriyyak23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
